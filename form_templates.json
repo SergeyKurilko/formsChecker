@@ -1,0 +1,23 @@
+{"_default":
+  {
+    "1": {
+      "name": "Order Form",
+      "customer_email": "email",
+      "customer_phone": "phone",
+      "order_date": "date",
+      "customer_comments": "text"
+    },
+    "2": {
+      "name": "User Contact Form",
+      "user_message": "text",
+      "user_email": "email",
+      "message_date": "date"
+    },
+    "3": {
+      "name": "Delivery Contact Form",
+      "delivery_message": "text",
+      "delivery_email": "email",
+      "delivery_message_date": "date"
+    }
+  }
+}
